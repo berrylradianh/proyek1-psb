@@ -67,7 +67,7 @@ switch ($getPage) {
 		break;
 	case 7:
 		$page 				= "include/status_pendaftaran.php";
-		$_SESSION['active']	= "4";
+		$_SESSION['active']	= "6";
 		break;
     case 8 :
         $page 				= "include/delete_data.php";

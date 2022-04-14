@@ -21,7 +21,7 @@
 <link rel="stylesheet" href="style3.css">
 
 <script src="../assets/js/jquery-3.2.1.min.js" type="text/javascript"></script>
-<script src="../assets/js/bootstrap.min.js" ty<div class="row">
+<script src="../assets/js/bootstrap.min.js" type="text/javascript" class="row">
     <div class="col-sm-12 col-md-8 col-lg-10 col-lg-offset-1">
         <div class="card" style="margin-top: 50px">
             <div class="card-header" data-background-color="blue">
@@ -146,7 +146,7 @@
             </div>
         </div>
     </div>
-</div>pe="text/javascript"></script>
+</script>
 <script src="../assets/js/material.min.js" type="text/javascript"></script>
 <script src="../assets/js/chartist.min.js"></script>
 <script src="../assets/js/arrive.min.js"></script>
